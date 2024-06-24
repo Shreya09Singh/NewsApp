@@ -1,0 +1,114 @@
+# Flutter
+# Builds
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/engine.xcframework
+.android/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+.metadata
+*.iml
+*.log
+*.hprof
+*.DS_Store
+.dart_tool/
+android/.gradle
+android/.idea
+android/captures
+android/local.properties
+ios/.generated/
+ios/Flutter/.last_build_id
+ios/Flutter/ephemeral/
+test-output/
+coverage/
+
+# Symbolicate stack traces
+# https://github.com/flutter/flutter/issues/80750
+android/app/symbols/
+
+# Android/IntelliJ
+*.keystore
+*.jks
+*.bak
+*.orig
+*.class
+*.swp
+*.swo
+*.d.ts
+*.log
+*.log.*.swp
+*.iml
+.gradle/
+local.properties
+
+# iOS
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.xcscmblueprint
+*.xcuserstate
+*.xcworkspace
+DerivedData/
+.xcconfig
+*.xcodeproj/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+.swp
+
+# Pub
+.packages
+.pub-cache/
+.pub/
+.dart_tool/
+
+# Project-specific
+.env
+key.env
+
+# Web
+web/assets
+lib/generated_plugin_registrant.dart
+
+# macOS
+macos/Flutter/ephemeral/
+macos/.symlinks/
+macos/Pods/
+
+# Windows
+windows/flutter/ephemeral/
+windows/.symlinks/
+windows/Flutter/ephemeral/
+windows/.dart_tool/
+
+# Linux
+linux/flutter/ephemeral/
+linux/.symlinks/
+linux/Flutter/ephemeral/
+linux/.dart_tool/
+
+# VS Code
+.vscode/
+.history
+.ionide
+*.code-workspace
+
+# VS Code Settings folder
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/tasks.json
+.vscode/*.code-workspace
+.vscode/*.json
+
+# Flutter Generated Files
+flutter_export_environment.sh
+.flutter-plugins
+.flutter-plugins-dependencies
